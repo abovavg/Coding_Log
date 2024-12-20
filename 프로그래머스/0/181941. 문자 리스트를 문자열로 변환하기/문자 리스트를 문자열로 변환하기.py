@@ -1,5 +1,5 @@
 def solution(arr):
     answer = ''
     for i in arr:
-        answer += i        
+        answer += i
     return answer
